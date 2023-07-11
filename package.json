@@ -14,7 +14,7 @@
   "contributes": {
     "commands": [{
       "command": "vscode-rbe.helloWorld",
-      "title": "Hello World"
+      "title": "Format properties"
     }]
   },
   "scripts": {
